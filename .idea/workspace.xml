@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4c718c-5542-4b75-85d6-e0c42dc89704" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="4c4c718c-5542-4b75-85d6-e0c42dc89704" name="Changes" comment="Create class SqlitePokemonLoader">
+      <change beforePath="$PROJECT_DIR$/src/main/java/enyi/kata2/Sqlite/SqlitePokemonLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enyi/kata2/Sqlite/SqlitePokemonLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +59,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700077497926</updated>
-      <workItem from="1700077499498" duration="628000" />
+      <workItem from="1700077499498" duration="1138000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial version from kata2">
+      <option name="closed" value="true" />
+      <created>1700078145840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700078145840</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create class SqlitePokemonLoader">
+      <option name="closed" value="true" />
+      <created>1700078187450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700078187450</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial version from kata2" />
+    <MESSAGE value="Create class SqlitePokemonLoader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create class SqlitePokemonLoader" />
   </component>
 </project>
